@@ -4,17 +4,22 @@
 Através de um codigo antigo fui adptando e inserindo novas linhas de código. Sendo assim este repositório é um formulário que tem um campo para prencher que no caso são números, o bloco de php no código faz verificações como se o valor inserido pelo usuário é número par ou ímpar, redondo ou não, e se é positivo, negativo ou neutro. Além de verificar ele exibe uma mensagem da verificação.  
 Para a construção deste aquivo foi usado HTML5 como a estrutura com algumas tags, CSS para estilizar a pagina web, PHP para processar os valor enviado pelo formulário. Ele basicamente recebe o valor e através da condições imprime uma mensagem.
 
-
-
 ## Funcionalidades
 ### Verifica se o número é:
 - Par ou ímpar.
 - Redondo ou não.
 - Positivo, negativo ou neutro.
 
-## Exemplo de Uso
-1- O usuário digita um número no campo de preenchimento.  
-2- O formulário vai exibir as informações do número como o exemplo o abaixo.  
+## Como Usar
+**lembrando que para ter o acesso e preciso seguir esses 4 passos:**  
+1- E necessário Clonar este repositório.    
+2- Ter o XAMPP ou um servidor Apache para o uso.  
+3- coloque o arquivo em htdoc do XAMPP.  
+4- No navegador você digita *localhost/nome-da-pasta-do-projeto*.  
+
+**Agora você ira acessar o formulário**  
+1- Insira um número no campo de preenchimento e envie.  
+2- O formulário vai exibir as informações sobre o número inserido.  
 ![img](img/formulario-atv3.png)
 
 ## Condições PHP
