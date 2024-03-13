@@ -10,8 +10,8 @@ Atraves de um codigo antigo fui adptando  inserindo novas linhas de código. Sen
 - Positivo, negativo ou neutro.
 
 ## Exemplo de Uso
-1- O usuário digita um número no campo de preenchimento.
-2- O formulário vai exibir as informações do número como o exemplo o abaixo.
+1- O usuário digita um número no campo de preenchimento.  
+2- O formulário vai exibir as informações do número como o exemplo o abaixo.  
 ![img](img/formulario-atv3.png)
 
 ## Fontes de Consulta
