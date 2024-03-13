@@ -1,7 +1,10 @@
 # cria-codigo
 
 # Descrição do repositório
-Atraves de um codigo antigo fui adptando  inserindo novas linhas de código. Sendo assim este repositório é um formulário que tem um campo para prencher que no caso são números, o bloco de php no código faz verificações como se o valor inserido pelo usuário é número par ou ímpar, redondo ou não, e se é positivo, negativo ou neutro. Além de verificar ele exibe uma mensagem da verificação.
+Através de um codigo antigo fui adptando e inserindo novas linhas de código. Sendo assim este repositório é um formulário que tem um campo para prencher que no caso são números, o bloco de php no código faz verificações como se o valor inserido pelo usuário é número par ou ímpar, redondo ou não, e se é positivo, negativo ou neutro. Além de verificar ele exibe uma mensagem da verificação.  
+Para a construção deste aquivo foi usado HTML5 como a estrutura com algumas tags, CSS para estilizar a pagina web, PHP para processar os valor enviado pelo formulário. Ele basicamente recebe o valor e através da condições imprime uma mensagem.
+
+
 
 ## Funcionalidades
 ### Verifica se o número é:
@@ -14,7 +17,7 @@ Atraves de um codigo antigo fui adptando  inserindo novas linhas de código. Sen
 2- O formulário vai exibir as informações do número como o exemplo o abaixo.  
 ![img](img/formulario-atv3.png)
 
-## Detalhes das Condições PHP
+## Condições PHP
 
 O código tem comandos em PHP sendo três condições que faz a verificação do numero inserido pelo usuário e exibe uma mensagem com o comando *echo*.  
 - **Verificação de Par ou Ímpar:** A condição *if ($num % 2 == 0)* verifica se o número inserido pelo usuário é divisível por 2, ou seja, se é par. Se o resto da divisão por 2 for igual a 0, o número é considerado par. Caso contrário, é considerado ímpar.  
