@@ -23,7 +23,7 @@ O código tem comandos em PHP sendo três condições que faz a verificação do
   
 ## Fontes de Consulta
 
-- Pesquisei algumas coisas para estilizar, como a tag que centraliza. Usei o site1. Para o botão mais arredondado, utilizei o [DevMedia](https://www.devmedia.com.br/css-como-criar-elementos-arredondados/37905) e pesquisei fontes para ver qual combinava com a página, utilizando o [DaFont](https://www.dafont.com/pt/).
+- Pesquisei algumas coisas para estilizar, como a tag que centraliza. Para o botão mais arredondado, utilizei o [DevMedia](https://www.devmedia.com.br/css-como-criar-elementos-arredondados/37905) e pesquisei fontes para ver qual combinava com a página, utilizando o [DaFont](https://www.dafont.com/pt/).
 - Utilizei um código antigo [código usado](atd2/par.php) que tinha como base a primeira condição de verificação se o valor era (par ou ímpar) e assim fui construindo as demais.
 - Utilizei o [ChatGPT](https://chat.openai.com/) para pesquisar sobre números redondos, para conseguir criar as condições.
 - Tambem utilizei o [Alura](https://www.alura.com.br/artigos/escrever-bom-readme) para estruturar o README.
