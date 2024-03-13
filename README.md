@@ -9,6 +9,11 @@ Atraves de um codigo antigo fui adptando  inserindo novas linhas de código. Sen
 - Redondo ou não.
 - Positivo, negativo ou neutro.
 
+## Exemplo de Uso
+1- O usuário digita um número no campo de preenchimento.
+2- O formulário vai exibir as informações do número como o exemplo o abaixo.
+![img](img/formulario-atv3.png)
+
 ## Fontes de Consulta
 
 - Pesquisei algumas coisas para estilizar, como a tag que centraliza. Usei o site1. Para o botão mais arredondado, utilizei o [DevMedia](https://www.devmedia.com.br/css-como-criar-elementos-arredondados/37905) e pesquisei fontes para ver qual combinava com a página, utilizando o [DaFont](https://www.dafont.com/pt/).
